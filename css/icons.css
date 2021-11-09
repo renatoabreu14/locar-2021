@@ -19,6 +19,7 @@
 }
 
 .img-box-round{
+    border: 1px solid black;
     display: inline-block;
     border-radius: 100%;
     overflow: hidden;
@@ -32,4 +33,14 @@
     border-right: 2px solid rgb(123, 53, 45);
     background: transparent;
     margin-bottom: 10px;
+}
+
+.car-home{
+    border: 2px solid black;;
+}
+
+.car-home:hover{
+    opacity: 0.5;
+    cursor: pointer;
+    transition: ease .5s, all;
 }
