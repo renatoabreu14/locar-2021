@@ -3,10 +3,12 @@
 @import url("buttons.css");
 @import url("tipography.css");
 @import url("icons.css");
+@import url("menu.css");
 
 body {
     font-family: 'Open sans', sans-serif;
     color: rgb(130,130,130);
+    line-height: 25px;
 }
 
 #header{

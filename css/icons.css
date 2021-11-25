@@ -40,7 +40,7 @@
 }
 
 .car-home:hover{
-    opacity: 0.5;
+    opacity: .5;
     cursor: pointer;
-    transition: ease .5s, all;
+    transition: ease .5s all;
 }
